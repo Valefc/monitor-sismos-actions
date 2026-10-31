@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2026-10-31T13:17:29.030Z,18.9686,-64.2266,20,12,md,23,299,0.5095,0.29,pr,pr2026304000,2026-10-31T15:16:28.040Z,"92 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.03,22.65,0.16,21,reviewed,pr,pr
-2026-10-31T13:10:08.987Z,-6.4305,128.9289,254.829,4.3,mb,27,139,6.732,0.83,us,us7000tuiw,2026-10-31T14:37:11.040Z,"Bolivia",earthquake,12.76,9.889,0.116,24,reviewed,us,us
+2026-10-31T15:32:36.070Z,60.232,-152.198,79.1,2.6,ml,80,58,0.3,0.7,ak,aka2026vovsfh,2026-10-31T15:35:52.805Z,"35 km NW of Ninilchik, Alaska",earthquake,2.5,1.7859,0.2,50,automatic,ak,ak
+2026-10-31T13:38:39.154Z,33.1525,91.6138,10,4.3,mb,48,68,10.348,0.66,us,us7000tuj2,2026-10-31T15:53:25.040Z,"190 km NNW of Nagqu, China",earthquake,10.21,1.89,0.087,41,reviewed,us,us
+2026-10-31T13:31:14.759Z,19.1534,120.9249,35,4.4,mb,55,128,3.649,0.54,us,us7000tuj1,2026-10-31T15:38:28.040Z,"62 km NNW of Claveria, Philippines",earthquake,10.97,1.936,0.084,44,reviewed,us,us
+2026-10-31T13:17:29.030Z,18.9686,-64.2266,20,3.77,md,23,299,0.5095,0.29,pr,pr2026304000,2026-10-31T15:16:28.040Z,"92 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.03,22.65,0.16,21,reviewed,pr,pr
+2026-10-31T13:10:08.987Z,-6.4305,128.9289,254.829,4.3,mb,27,139,6.732,0.83,us,us7000tuiw,2026-10-31T14:37:11.040Z,"Banda Sea",earthquake,12.76,9.889,0.116,24,reviewed,us,us
 2026-10-31T11:31:12.352Z,-13.9069,165.6759,10,5,mww,46,111,6.739,0.93,us,us7000tuif,2026-10-31T11:47:21.040Z,"196 km NW of Port-Olry, Vanuatu",earthquake,10.34,1.884,0.078,16,reviewed,us,us
 2026-10-31T10:42:10.031Z,-19.2212,-177.4956,575.79,4.4,mb,36,89,4.044,0.82,us,us7000tui9,2026-10-31T11:03:20.040Z,"Fiji region",earthquake,13.92,9.712,0.101,28,reviewed,us,us
 2026-10-31T09:30:49.100Z,18.937,-63.570333333333,17.59,3.1,md,7,334,0.9052,0.45,pr,pr71538038,2026-10-31T10:50:03.850Z,"95 km NNW of Sandy Ground Village, Anguilla",earthquake,4.15,31.61,0.13113739381928,6,reviewed,pr,pr
@@ -336,5 +339,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-10-24T17:49:46.312Z,41.8193,-126.6544,10,2.8,ml,33,263,1.786,0.77,us,us6000u4ng,2026-10-24T18:09:46.040Z,"193 km WSW of Pistol River, Oregon",earthquake,8.69,2.02,0.037,94,reviewed,us,us
 2026-10-24T17:14:30.377Z,-21.3025,-68.9699,123.988,4.2,mb,39,55,0.548,0.89,us,us6000u4na,2026-10-24T17:44:28.040Z,"74 km W of Ollagüe, Chile",earthquake,5.18,3.751,0.106,25,reviewed,us,us
 2026-10-24T16:54:15.523Z,-14.2056,165.9365,10,4.8,mww,65,37,6.504,0.55,us,us6000u4n8,2026-10-24T17:17:37.040Z,"153 km NW of Port-Olry, Vanuatu",earthquake,10.52,1.825,0.098,10,reviewed,us,us
-2026-10-24T15:54:24.778Z,69.02,-144.492,1.7,2.7,ml,28,137,0.7,0.9,ak,aka2026vbyigb,2026-10-24T15:58:02.656Z,"108 km NNE of Arctic Village, Alaska",earthquake,5.7,4.0969,0.3,12,automatic,ak,ak
-2026-10-24T15:45:47.533Z,-13.9412,165.1696,10,4.7,mb,37,113,6.627,0.9,us,us6000u4my,2026-10-24T16:46:51.040Z,"238 km WNW of Port-Olry, Vanuatu",earthquake,13.5,1.91,0.1,33,reviewed,us,us
