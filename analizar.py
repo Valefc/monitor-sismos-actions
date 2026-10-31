@@ -6,7 +6,7 @@ import sys
 from collections import Counter
 from datetime import datetime, timezone
 
-ESTUDIANTE = "Valeria Figueroa Camacho"
+ESTUDIANTE = "Valeria Rafaela Figueroa Camacho"
 USUARIO = "Valefc"
 REPO_URL = f"https://github.com/{USUARIO}/monitor-sismos-actions"
 FUENTE = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.csv"
